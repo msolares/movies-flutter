@@ -1,0 +1,5 @@
+class Apikey{
+  String getApiKey(){
+    return "eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI0MTBlYjBlZDRkMDM1OTMwM2M1ZWU3YTU4YjMzNDJjMSIsIm5iZiI6MTYwMzgxMzE2OS4xNzcsInN1YiI6IjVmOTgzZjMxYWZhMWIwMDAzNzk0MjFmYyIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.3n5RLvJoyGcP8V5RWafKWwNM38EMe8QZLG60vbG5P8g";
+  }
+}
